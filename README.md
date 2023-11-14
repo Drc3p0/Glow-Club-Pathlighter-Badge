@@ -1,4 +1,5 @@
-# Glowbug-Club-PCB
+# Pathlighter Badge
+#### formerly known as the 'glowbug club' badge
 <div id="top"></div>
 
 
