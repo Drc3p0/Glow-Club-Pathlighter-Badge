@@ -1,4 +1,4 @@
-# Glowbug-Club-PCB
+# Glow Club Pathlighter Badge
 <div id="top"></div>
 
 
@@ -7,16 +7,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Drc3p0/glowbug-club-pcb">
-    <img src="https://github.com/Drc3p0/Glowbug-Club-PCB/blob/main/images/glowbug-front-back.jpeg" alt="glowclub pcb front and back" width="750" height="500">
+  <a href="https://github.com/Drc3p0/Glow-Club-Pathlighter-Badge">
+    <img src="https://github.com/Drc3p0/Glow-Club-Pathlighter-Badge/blob/main/images/glowbug-front-back.jpeg" alt="glowclub pcb front and back" width="750" height="500">
       </a>
- <a href="https://github.com/Drc3p0/glowbug-club-pcb">
-    <img src="https://github.com/Drc3p0/Glowbug-Club-PCB/blob/main/images/CCC23-design.jpg" alt="glowclub pcb front and back" width="500" height="500">
+ <a href="https://github.com/Drc3p0/Glow-Club-Pathlighter-Badge">
+    <img src="https://github.com/Drc3p0/Glow-Club-Pathlighter-Badge/blob/main/images/CCC23-design.jpg" alt="glowclub pcb front and back" width="500" height="500">
       </a>
 
 
 
-<h3 align="center">Glowbug Club PCB</h3>
+<h3 align="center">Glow Club Pathlighter Badge</h3>
 
   <p align="center">
     wearable PCB art for the community
@@ -45,8 +45,8 @@ This PCB was created to teach people how to solder and illuminate campers paths 
 The designs are free to be modified however you'd like.  
 
 <div align="center">
-  <a href="https://github.com/Drc3p0/glowbug-club-pcb">
-    <img src="https://github.com/Drc3p0/Glowbug-Club-PCB/blob/main/images/so-much-glow.jpg" alt="much glow!" width="565" height="700">
+  <a href="https://github.com/Drc3p0/Glow-Club-Pathlighter-Badge">
+    <img src="https://github.com/Drc3p0/Glow-Club-Pathlighter-Badge/blob/main/images/so-much-glow.jpg" alt="much glow!" width="565" height="700">
       </a>
 </div>
 
@@ -79,7 +79,7 @@ Distributed under the CERN Open Hardware License (CERN-OHL-W). See `LICENSE.txt`
 
 For inquiries, email me @ [GlowClub@DarcyNeal.com](mailto:glowclub@darcyneal.com)
 
-Project Link: [https://github.com/Drc3p0/Glowbug-Club-PCB](https://github.com/Drc3p0/Glowbug-Club-PCB)
+Project Link: [https://github.com/Drc3p0/Glowbug-Club-PCB](https://github.com/Drc3p0/Glow-Club-Pathlighter-Badge)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
