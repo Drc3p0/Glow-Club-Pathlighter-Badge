@@ -24,7 +24,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This PCB was created as a workshop aid to teach people about LEDs and soldering, and as a way to demistify the process of importing custom art layers into Kicad.  The PCB is intended to be worn on a lanyard, as a way to keep us all glowing safely at night. It was debuted at SOAK '22 for the There U Glow electronics education camp, and provided as a soldering workshop for ToorCamp '22 participants. 
+This PCB was created as a workshop aid to teach people about LEDs and soldering, to help demistify the process of importing custom art layers into Kicad, and to help light the way for campers at night.  The PCB is intended to be worn on a lanyard, as a way to keep us all glowing safely at night. It was debuted at [SOAK '22](https://soakpdx.com/) for the There U Glow electronics education camp, taught as a soldering workshop at [ToorCamp '22](https://toorcamp.toorcon.net/), again at [SOAK '23](https://soakpdx.com/), and again for [Chaos Communication Camp '23](https://events.ccc.de/category/camp-2023). 
 
 ![signal-2022-07-20-17-38-53-745-3](https://user-images.githubusercontent.com/5934416/230461181-b4f589f3-af21-478e-bcd9-1b133f0b4df2.jpg)
 
@@ -39,14 +39,14 @@ This PCB was created as a workshop aid to teach people about LEDs and soldering,
 <!-- GETTING STARTED -->
 ## Welcome
 
-This PCB was created to teach people how to solder, and to be passed out to the honorary new members of the glow club @ SOAK 2022.  
+This PCB was created to teach people how to solder, and to be passed out to honorary members of the Glow Club (anyone can join!). 
 The designs are free to be modified however you'd like.  
 
 ### Build it! 
 
 Components are easy to source and assemble.
 Uses a [generic AAA single battery holder x2](https://www.mouser.com/ProductDetail/12BH412-GR), your favorite 5mm LED!  (we like these [colorchanging ones](https://www.amazon.com/Multicolor-Flashing-Changing-Electronics-Components/dp/B01C19END2/ref=sr_1_13?crid=3ENC4HC6ILEX9&keywords=slow+flash+led+5mm&qid=1654971525&sprefix=slow+flash+led+5mm%2Caps%2C144&sr=8-13)), and this
-[tiny switch](https://www.mouser.com/ProductDetail/642-MHSS1105) to conserve your battery power
+[tiny switch](https://www.mouser.com/ProductDetail/642-MHSS1105) to conserve your battery power.
 
 
 ## Contributing
@@ -76,9 +76,12 @@ Project Link: [https://github.com/Drc3p0/Glowbug-Club-PCB](https://github.com/Dr
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 Thanks to:
-* [OshPark](https://oshpark.org) for providing the PCBs for this community project
-* the elusive [Josh](https://cat-bounce.com/) for providing power consumption data
-* there U glow camp @ [SOAK](https://soakpdx.com/) for helping distribute these boards & [teach folks about LEDs](https://docs.google.com/document/d/180WD4LogMjx8FmKcFc0dmlTEKJ1Xa7dIHlEhSLMOAxA/edit?usp=sharing)
+* [OshPark](https://oshpark.org) for providing the PCBs for this community project.
+* The elusive [Josh](https://cat-bounce.com/) for providing power consumption data.
+* There U glow camp @ [SOAK](https://soakpdx.com/) for helping distribute these boards & [teach folks about LEDs](https://docs.google.com/document/d/180WD4LogMjx8FmKcFc0dmlTEKJ1Xa7dIHlEhSLMOAxA/edit?usp=sharing).
 * Toorcamp 2022 for letting me host a soldering workshop.  Over 75 students were able to assemble badges during the ~2 hr workshop.
 <p align="right">(<a href="#top">back to top</a>)</p>
+* Chaos Communication Camp 2023 and the Hardware Hacking Village for letting me host 2 workshops!  Over 150 folks were able to complete their own pathlighter badge.  
+
+To date, the Glow Club now has over 450 members! May we all shine a little brighter as a result. :)
 
