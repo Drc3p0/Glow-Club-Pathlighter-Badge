@@ -39,13 +39,13 @@ This PCB was created as a workshop aid to teach people about LEDs and soldering,
 <!-- GETTING STARTED -->
 ## Welcome
 
-This PCB was created to teach people how to solder, and to be passed out to honorary members of the Glow Club (anyone can join!). 
+This PCB was created to teach people how to solder, and to be passed out to honorary members of the Glow Club. (anyone can join!) 
 The designs are free to be modified however you'd like.  
 
 ### Build it! 
 
 Components are easy to source and assemble.
-Uses a [generic AAA single battery holder x2](https://www.mouser.com/ProductDetail/12BH412-GR), your favorite 5mm LED!  (we like these [colorchanging ones](https://www.amazon.com/Multicolor-Flashing-Changing-Electronics-Components/dp/B01C19END2/ref=sr_1_13?crid=3ENC4HC6ILEX9&keywords=slow+flash+led+5mm&qid=1654971525&sprefix=slow+flash+led+5mm%2Caps%2C144&sr=8-13)), and this
+You will need a [generic AAA single battery holder x2](https://www.mouser.com/ProductDetail/12BH412-GR), your favorite 5mm LED!  (we like these [colorchanging ones](https://www.amazon.com/Multicolor-Flashing-Changing-Electronics-Components/dp/B01C19END2/ref=sr_1_13?crid=3ENC4HC6ILEX9&keywords=slow+flash+led+5mm&qid=1654971525&sprefix=slow+flash+led+5mm%2Caps%2C144&sr=8-13)), and this
 [tiny switch](https://www.mouser.com/ProductDetail/642-MHSS1105) to conserve your battery power.
 
 
