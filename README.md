@@ -32,11 +32,6 @@ This PCB was created as a workshop aid to teach people about LEDs and soldering,
 * [Kicad 6.0](https://kicad.org/)
 * [OshPark](https://oshpark.com/)
 
-
-<!-- GETTING STARTED -->
-## Welcome
-
-This PCB was created to teach people how to solder and illuminate campers paths at night.  
 The designs are free to be modified however you'd like.  
 
 <div align="center">
