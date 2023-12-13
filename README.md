@@ -1,10 +1,5 @@
-# Glow Club Pathlighter Badge
 <div id="top"></div>
 
-
-
-
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/Drc3p0/Glow-Club-Pathlighter-Badge">
