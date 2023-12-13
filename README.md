@@ -42,9 +42,8 @@ The designs are free to be modified however you'd like.
 
 ### Build it! 
 
-Components are easy to source and assemble.
-Uses a [generic AAA single battery holder x2](https://www.mouser.com/ProductDetail/12BH412-GR), your favorite 5mm LEDs (we like these [colorchanging ones](https://www.amazon.com/Multicolor-Flashing-Changing-Electronics-Components/dp/B01C19END2/ref=sr_1_13?crid=3ENC4HC6ILEX9&keywords=slow+flash+led+5mm&qid=1654971525&sprefix=slow+flash+led+5mm%2Caps%2C144&sr=8-13)), and this
-[tiny SPDT switch](https://www.mouser.com/ProductDetail/642-MHSS1105) to conserve your battery power
+Components are easy to source and assemble, and consist of a [generic AAA single battery holder x2](https://www.mouser.com/ProductDetail/12BH412-GR), your favorite 5mm LEDs (we like these [color changing ones](https://www.amazon.com/Multicolor-Flashing-Changing-Electronics-Components/dp/B01C19END2/ref=sr_1_13?crid=3ENC4HC6ILEX9&keywords=slow+flash+led+5mm&qid=1654971525&sprefix=slow+flash+led+5mm%2Caps%2C144&sr=8-13)), and this
+[tiny SPDT switch](https://www.mouser.com/ProductDetail/642-MHSS1105) to conserve your battery power.
 
 
 ## Contributing
